@@ -1,6 +1,6 @@
 # pl_home_work_debbi_islam
 
-A new Flutter project.
+Dynamic simplex solver program with dart 
 
 ## Getting Started
 
